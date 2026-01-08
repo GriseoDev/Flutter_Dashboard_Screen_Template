@@ -4,6 +4,9 @@ A clean, production-ready **Flutter Dashboard UI template** built with **Materia
 
 This project focuses purely on **UI and layout** and is intended as a starting point for real-world Flutter applications.
 
+Full template available on Gumroad:  
+👉 https://griseo.gumroad.com/l/dev-flutter-dashboard-template
+
 ---
 
 ## Features
